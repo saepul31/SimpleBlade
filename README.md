@@ -1,6 +1,6 @@
 # SimpleBlade
 Crack Fb dek
 
-$AMELIA CANS❤
+$SF MODZ
 
 tinggal git clone aja apa susahnya😳
