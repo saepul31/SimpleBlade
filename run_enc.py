@@ -1,5 +1,5 @@
 # Compile By AmmarrBN
-# https://github.com/AmmarrBN/Py-Fuscate
+# https://github.com/SfModz/Py-Fuscate
 # Make Sure You're Running The Program With python3.10 Otherwise It May Crash
 # To Check Your Python Version Run "python -V" Command
 try:
